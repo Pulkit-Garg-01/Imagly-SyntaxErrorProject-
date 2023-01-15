@@ -18,7 +18,7 @@ Clone the repo using 'git clone'.
 
 Things we could do partially
 We were able to generate a given image to sketch but we were not able to generate any given image.
-We were able to write Smart Contracrt and Hashcode but not able to deploy it.
+We were able to write Smart Contracrt and Hashvalue but not able to deploy it.
 
 License
 Licensed under the MIT License
