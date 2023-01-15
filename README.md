@@ -14,11 +14,11 @@ Why is  relevant?
 Imagly provides user a new fun way to draw which looks super cool.If made more efficient it can eliminate the need of stylus pen/apple pencil. Also since the user can  save  image in his device and access it anytime it can be used to present ideas, make notes or just doodling.We attempted to make an image to sketch generator which enables user to get realistic pencil sketch of any given image. This saves the energy required in making an entire sketch. Also you don't need a whole range of hb pencils.
 
 How to start?
-Clone the repo using 'git clone' 
+Clone the repo using 'git clone'.
 
-
-
-
+Things we could do partially
+We were able to generate a given image to sketch but we were not able to generate any given image.
+We were able to write Smart Contracrt and Hashcode but not able to deploy it.
 
 License
 Licensed under the MIT License
