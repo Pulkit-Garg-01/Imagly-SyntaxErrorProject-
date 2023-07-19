@@ -1,5 +1,5 @@
 IMAGLY
-This is the repository of our submission for the SDSLabs Syntax Error.
+This is the repository of our submission for the SDSLabs(IIT Roorkee) Syntax Error.
 
 About
 Imagly provides user a new fun way to draw and even save their work to their device. User can draw by moving his hand in air. He can also access various features like different colors, shapes, erase and clear option. We can use whiteboard with trackpad also. We also provide user an image to sketch convertor.
@@ -22,3 +22,6 @@ We were able to write Smart Contracrt and Hashvalue but not able to deploy it.
 
 License
 Licensed under the MIT License
+
+
+
